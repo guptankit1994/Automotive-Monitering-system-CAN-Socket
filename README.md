@@ -1,0 +1,2 @@
+# Automotive-Monitering-system-CAN-Socket
+ An efficient real-time vehicle monitoring system is designed and implemented for monitoring the vehicle. The proposed system transmits all the live parameters of the vehicle sent to a remote server where it stores the data. The stored data can further be accessed by the user on a mobile App. For implementing this the project utilizes the CAN protocol to capture data from the vehicle. The Project uses CAN data simulator which emulates a car. 
